@@ -1,1 +1,1 @@
-console.log("ashma is very good girl")
+console.log("ashma is good girl")
